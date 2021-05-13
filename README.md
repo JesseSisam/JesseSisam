@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JesseSisam
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning DevOps Principles.
+- 💞️ I’m looking to collaborate.
+- 📫 Find me.
